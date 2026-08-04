@@ -1,6 +1,6 @@
 A **beadworker** is specialized jeweler who carves beads for [[lifestones]]. 
 
-Beadworkers were originally the priests of Zalen's shrines.
+Beadworkers were originally the priests of Zalen's shrines. They were responsible for leading religious rituals, giving offerings, and maintaining his shrines. They were also educators and counselors, working to provide for their community. They crafted beads in meditation.
 
 What was once prolific religious dedication grew rarer over time as Zarenia's shrines were destroyed by Alanuan conquest.
 
