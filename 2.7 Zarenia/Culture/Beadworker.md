@@ -1,8 +1,16 @@
 A **beadworker** is specialized jeweler who carves beads for [[lifestones]]. 
 
-Beadworkers were originally the priests of Zalen's shrines. They were responsible for leading religious rituals, giving offerings, and maintaining his shrines. They were also educators and counselors, working to provide for their community. They crafted beads in meditation.
+Beadworkers were once the priests of [[Zalen, The Dragon of Creation|Zalen's]] shrines. They were responsible for leading religious rituals, giving offerings, and maintaining his shrines. They were also educators and counselors, working to provide for their community. They crafted stone beads in meditation, chipping or carving small pieces of stone to hone their concentration and connection to the Creator.
 
-What was once prolific religious dedication grew rarer over time as Zarenia's shrines were destroyed by Alanuan conquest.
+## History
+It is believed dragons, ever fond of trinkets and accessories, taught the first humans the art of the craft. Humans, with their dexterous hands and fingers, were much more capable of the intricate details that dragons favored. A craftsman who could impress a dragon with their work would be given a string of beads with the dragon's colors, which brought them under the dragon's protection. As the once-extant dragons drew closer to extinction, their favored craftsmen likewise became their caretakers and protectors, controlling who could see or visit with the dragon. Known for their expert skill in stone-crafts, these people came to be known as Beadworkers.
+
+Over time, the existence of dragons became mere legend, and with them, the need for beadworkers. Only in Zarenia, where it is believed Zalen's body lies do beadworkers remain. They interpret his wishes, carve them into beads, and pass them on to the community. Those who still believe in Zalen's protection wear lifestones as signs of his blessings.
+
+During the Era of Conquest, Alanuan [[The Guardians of Alanue|Guardians]] laid waste to Zalen's shrines and captured the beadworkers to use for themselves.
+
+## Training
+
 
 **Origins and History**
 - When did beadworking first emerge in Zarenia?
