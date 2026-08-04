@@ -1,4 +1,4 @@
-Transportation in Zarenia was relatively primitive and relied on foot-power and beasts of burden until the discovery of spirits and the use of their abilities became more well-known.
+Transportation in Zarenia was relatively primitive and relied on foot-power until the discovery of spirits and the use of their abilities became more well-known.
 ### Zipline
 First developed for use by the Promise of Freedom, these ropes zigzag across mountain and hilltops. Weaved between specially-grown trees shaped into a landing platform, ziplines help mountaindwellers descend easily.
 
