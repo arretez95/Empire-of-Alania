@@ -1,6 +1,8 @@
 A **beadworker** is specialized jeweler who carves beads for [[lifestones]]. 
 
-What was once prolific religious dedication grew rarer over time as Zarenia's shrines were destroyed by Alanuan conquest. 
+Beadworkers were originally the priests of Zalen's shrines.
+
+What was once prolific religious dedication grew rarer over time as Zarenia's shrines were destroyed by Alanuan conquest.
 
 **Origins and History**
 - When did beadworking first emerge in Zarenia?
