@@ -10,7 +10,7 @@ Over time, the existence of dragons became mere legend, and with them, the need 
 During the Era of Conquest, Alanuan [[The Guardians of Alanue|Guardians]] laid waste to Zalen's shrines and captured the beadworkers to use for themselves.
 
 ## Training
-
+It is unknown how previous beadworkers were trained. Most likely it is similar to current times, where a beadworker takes an apprentice to train. The position is not hereditary as beadworkers give fundamental lessons to all children in the community.
 
 **Origins and History**
 - When did beadworking first emerge in Zarenia?
