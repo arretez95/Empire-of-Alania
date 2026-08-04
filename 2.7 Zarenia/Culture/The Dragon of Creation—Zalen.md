@@ -1,0 +1,5 @@
+Eons ago, dragons ruled the land. However, the dragons went extinct for reasons unknown to man. In fact, little is known about them other than their existence through historic drawings.
+
+At the height of the dragons' rule, the largest and most intimidating was the Creator Zalen, an Earth Dragon acknowledged and revered for the creation of life, including mankind. After its death, the body became present-day Alania and over time, his power leaked into the land as natural energy (Zarenians call this Spiritual Power).
+
+Toward the end of its life, Zalen created a miniature version of itself and housed it within an egg. When Zalen died, its egg remained in the womb, incubated with a bubble of dragon blood magnified with natural energy. Because of this dense collection of natural energy, Zarenians became capable of absorbing and releasing it when in partnership with a Spirit.
