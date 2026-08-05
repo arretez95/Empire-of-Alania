@@ -1,11 +1,11 @@
 ---
 tags:
-  - "#Zarenia"
   - Spiriter
+  - Zarenia
 aliases:
   - Daniel
-cssclasses:
-  - Zarenia
+nation: Zarenia
+role: Archivist
 ---
 
 | **Spirit**           | [[Curtidagua]]     |

@@ -27,7 +27,7 @@ There are currently Archives located in Casbar, Redcker, and Dunsterton.
 ### History
 The Archives were modeled after Xxtan's academic libraries.
 
-Because Zarenians had previously been barred from a formal education for decades, it was the goal of [[Brandon Carona|Chief Brandon]] to build a public institution for education. Brandon set [[Daniel Carona]] to the task.
+Because Zarenians had previously been barred from a formal education for decades, it was the goal of [[Brandon Carona|Chief Brandon]] to build a public institution for education. Brandon set his brother [[Daniel Carona]] to the task.
 
 At the same time, [[Gremmin Thorrup]], an exile from Alanue and a friend of Daniel's, befriended a group of children one day while he was walking on the beach. Interested by what he had scratched into the sand, they asked him to teach them to write. After parents find out what he and the children have been up to, they decide to refurbish an abandoned house for them to use as a classroom.
 
