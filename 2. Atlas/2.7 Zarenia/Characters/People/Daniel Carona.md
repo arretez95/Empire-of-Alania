@@ -23,6 +23,8 @@ Daniel rose to fame during the Zarenian Rebellion. His wit and flexibility saved
 
 After the formation of [[the Council of Seven]], and because he never turned down a request from his brother, Daniel was named colloquially as the Chief's Sword. This position would become official after [[Brandon Carona|Brandon]]'s retirement.
 
+Daniel is currently a Senior Archivist for the [[The Archives|Archives]] and is frequently away on missions.
+
 ### Physicalities
 He never stops smiling. That's the first thing people notice. Doesn't matter if something goes awry, if it's not a smirk, it's a toothy grin. It puts some people off, unable to read his genuine emotions. But underneath that stupid, two-faced facade lies a hint of brilliance. It's best not to show all your cards at once, right?
 

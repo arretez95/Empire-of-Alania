@@ -31,12 +31,16 @@ Because Zarenians had previously been barred from a formal education for decades
 
 At the same time, [[Gremmin Thorrup]], an exile from Alanue and a friend of Daniel's, befriended a group of children one day while he was walking on the beach. Interested by what he had scratched into the sand, they asked him to teach them to write. After parents find out what he and the children have been up to, they decide to refurbish an abandoned house for them to use as a classroom.
 
-Gremmin, a former soldier with no teaching experience, asks Daniel to help him find teachers as the student body grows. Initially, Daniel resists. He doubts Brandon will approve the funding for the new school given his distrust of Alanuans, especially those in positions of authority. But Brandon inadvertently discovers the small school when he runs into some children crowding around a door.
+Gremmin, a former soldier with no teaching experience, asks Daniel to help him find teachers as the student body grows. Initially, Daniel resists. He doubts Brandon will approve the funding for the new school given his distrust of Alanuans, especially those in positions of authority. But Brandon inadvertently discovers the small school when he runs into some children crowding around its door.
 
 ### Architecture
 The Archives' front is a small, two-story brick structure with a steeply pitched roof. Its most distinguishing feature is the bright red bricks used in its facade accented with light-colored stone.
 
 Its first and second stories contain mostly classrooms and offices while the actual Archives are underground with tunnels between Casbar, Dunsterton, and Recker.
+
+### Librarian
+The Chief Librarian is currently ___. 
+
 
 **Known Archivists:**
 - [[Daniel Carona|Daniel]]
