@@ -1,23 +1,22 @@
-Zarenians harness natural energy through their connection with **Spirits**, elemental creatures responsible for acts of nature. The ability to perceive and interact with Spirits is a genetic trait passed down from the ancient progenitor, [[Zalen]], encompassing the majority of native Zarenians.
+What's another name to call the pair instead of a partnership?
 
-Some elementals are common: Spirits growing plants, Spirits channeling streams and rivers, Earth Spirits in the soil and mountains, Wind Spirits in the breeze. Others are rare, limited to dangerous areas: Fire Spirits are prolific in volcanoes or deep underground; Mystic Spirits live long, reclusive lives.
+Zarenians harness natural energy through their connection with **Spirits**, elemental creatures responsible for acts of nature. The ability to perceive and interact with Spirits is a genetic trait passed down from the primordial Earth Dragon of Creation [[Zalen]]: essentially, the majority of native Zarenians.
 
-Spirit power is derived from the natural energy produced from the earth. While humans cannot readily tap into this energy, Spirits can.
+A spirit forms when something— an animal, a plant, or even an inanimate object—is exposed to a significant amount of natural energy, which Zarenia has a dense concentration of. Some are common: Plant spirits in grasslands and forests; Water spirits channeling streams and rivers; Earth Spirits in the soil, rocks, and mountains; Wind Spirits in the breeze. Others are rare, limited to dangerous areas or formed during natural disasters: Fire Spirits are prolific in volcanoes or form from lightning strikes; Mystic Spirits live long, reclusive lives.
+
+Spirit power is derived from the natural energy produced from the earth†. While humans cannot no longer readily tap into this energy, Spirits can.
+
+†It is eventually discovered natural energy leaks from the primordial gods' decaying bodies into the environment.
 
 ## Manifestation
+### Pledge
+A **Pledge** refers to the pact binding the human and the spirit, often a promise to fulfill the Spirit's wishes. Some people go a step further and carve a symbol of the Pledge onto their body. The pair together is referred to as a **partnership**. Though there is no direct terminology for a human in partnership with a Spirit, they may refer to themselves as "pledged".
 
-### Spiriter
-A person who can synchronize with a Spirit and use their power is called a **Spiriter**. A Spirit has no reason to obey a human they are not bonded with. Therefore, a person can only Synchronize when they have gained their Spirit's trust and solidified it with a Pledge.
-### Pledge 
-A **Pledge** refers to the pact binding the human and the spirit, often a promise to fulfill the Spirit's wishes. This can be anything simple (Brandon's pact requires he supply Espor at all times with food) to complex (Daniel's pact requires he find Curtidagua a home). Some Spiriters go a step further and carve a symbol of the Pledge onto their body.
+A Spirit has no reason to obey a human they are not bonded with. Therefore, a person can only Synchronize when they have gained their Spirit's trust and solidified it with a Pledge. Thus, the longer the Pledge is kept, and the closer the pair are to completion, the stronger the pledge and their abilities become. Pledged ones consider the closeness of their partnership analogous to their strength.
 
-A Spiriter might refer to themselves as "pledged". The pair together is referred to as a partnership. The more the two bond, the stronger the partnership.
+Pledges can be voided if violated or unfulfilled. If offended enough, a Spirit can permanently seal off the user's ability to Pledge.
 
-Pledges require a sufficient length of time to activate. The pact must also be concrete. Simple tasks or vague demands such as "Bring me food" or "Kneel before me" are not considered pacts.
-
-Pledges can be voided if violated or unfulfilled. If offended enough, a Spirit can permanently seal off the user's ability to make Pledges. Thus, the longer the Pledge is kept, and the closer the pair are to completion, the stronger the pledge and their abilities become. Spiriters consider the closeness of their partnership analogous to their strength.
-
-Once a Pledge is fulfilled, the synchronizing ability can be used over a distance, weakening with further span.
+Once a Pledge is fulfilled, the synchronizing ability can be used over a distance, weakening with span.
 #### Types of Pledges
 - **Service Pledge:** a commitment to perform ongoing tasks or services. 
 	- **Examples**
@@ -29,22 +28,23 @@ Once a Pledge is fulfilled, the synchronizing ability can be used over a distanc
 		- They retrieve lost or stolen artifacts important to the Spirit.
 - **Bond Pledges:** A promise to deepen the emotional or spiritual bond with the Spirit.
 	- **Examples**
-		- The Spiriter spends significant time with the Spirit.
-		- The Spiriter allows the Spirit to accompany him.
+		- They spend significant time with the Spirit.
+		- They allow the Spirit to accompany him.
 
 #### Pledge Grades
 Pledges differ by the feasibility of completion and are graded accordingly:
-- **Standard:** Unfeasible completion. As a person maintains their pledge (e.g. providing the service as requested), their ability remains standard and consistent. Improveable with experience.
-- **Erratic:** Feasible completion. A person's abilty relies largely on the strength of their partnership; improvement can be erratic. On pledge completion, the partnership's ability becomes significantly more efficient.
+- **Standard:** Unfeasible completion. As a person maintains their pledge (e.g. providing the service as requested), their ability remains standard and consistent. Improvable with experience.
+- **Erratic:** Feasible completion. A person's ability relies largely on the strength of their partnership; improvement can be erratic. On pledge completion, the partnership's ability becomes significantly more efficient.
 
 ### Synchronization
-The process of a Spiriter absorbing natural energy and utilizing Spirit Power is called **synchronization**. Synchronizing, or syncing, with an Elemental Spirit allows one to cast the Spirit's abilities as their own. The human and spirit must be in direct contact to do so. A stronger bond with the Spirit results in quicker and more efficient synchronization, reducing the time needed to charge and execute techniques.
+The process of absorbing natural energy and utilizing Spirit Power is called **synchronization**. Synchronizing, or syncing, with an Elemental Spirit allows one to cast the Spirit's abilities as their own. The human and spirit must be in direct contact to do so. A stronger bond with the Spirit results in quicker and more efficient synchronization, reducing the time needed to charge and execute techniques.
 
-The process is painful and places incredible strain on the body. The Spirit must merge physically to human tissue to channel natural energy into the bloodstream. Usage must be trained through experience (training, meditation, etc). Thus, the stronger the partnership, the easier it is to Synchronize and the easier it is to hold the power for longer periods of time.
+The process is painful and places incredible strain on the body. The Spirit must channel natural energy through human tissue into the bloodstream. Usage must be trained through experience (training, meditation, etc.). Thus, the stronger the partnership, the easier it is to Synchronize and the easier it is to hold the power for longer periods of time.
 
 Zarenians have a naturally lower red blood cell concentration to tolerate the low-oxygen conditions in their mountainous home. While it doesn't make the synchronization process any less painful, Spiriters practice breathing and martial arts techniques to accelerate blood flow and blood pressure, making it easier to channel and release Spirit power. Zarenians may also carve runic symbols into themselves to make absorption of Spirit power easier.
 
-Overuse of natural energy is called **overclocking**. Occasional, mild overclocking results in numbness, easily recoverable within minutes to hours. Moderate overclocking develops cramps or sores and risks tissue damage. Continued or severe overclocking leads to permanent tissue damage and eventually, permanent paralysis.
+Overuse of natural energy is called **overclocking**. Occasional, mild overclocking results in numbness, easily recoverable within minutes to hours. Moderate overclocking develops cramps or sores and risks tissue damage. Continued or severe overclocking leads to permanent tissue damage and eventually, permanent paralysis. Likewise, a Spirit who has exhausted their energy must replenish it if it must be used.
+
 ### Level
 One's level is determined by what they can accomplish while synchronizing. 
 ##### Level One
