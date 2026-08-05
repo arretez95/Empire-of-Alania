@@ -36,8 +36,7 @@ Gremmin, a former soldier with no teaching experience, asks Daniel to help him f
 ### Architecture
 The Archives' front is a small, two-story brick structure with a steeply pitched roof. Its most distinguishing feature is the bright red bricks used in its facade accented with light-colored stone.
 
-Its first and second stories contain mostly classrooms and offices while the actual Archives are underground.
+Its first and second stories contain mostly classrooms and offices while the actual Archives are underground with tunnels between Casbar, Dunsterton, and Recker.
 
 **Known Archivists:**
 - [[Daniel Carona|Daniel]]
-- 
