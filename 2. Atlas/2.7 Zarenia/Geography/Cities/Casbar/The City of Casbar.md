@@ -32,7 +32,7 @@ Main industries include shipping and fishing.
 - Merchant's Guild
 ### Points of Interest
 - [[The Port of Casbar]]
-- [[Casbar Archives]]
+- [[The Archives]]
 - [[Memorial Park]]
 - [[The Council House]]
 - [[The Market]]

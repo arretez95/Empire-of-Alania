@@ -28,6 +28,6 @@ Intro
 - The Archivists
 - Merchant's Guild
 ### Points of Interest
-- [[Casbar Archives]]
+- [[The Archives]]
 - [[The Market]]
 - [[The Ampitheatre]]
