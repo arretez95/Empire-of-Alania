@@ -1,3 +1,8 @@
+---
+tags:
+  - Zarenia
+---
+
 A **beadworker** is specialized jeweler who carves beads for [[lifestones]]. 
 
 Beadworkers were once the priests of [[Zalen, The Dragon of Creation|Zalen's]] shrines. They were responsible for leading religious rituals, giving offerings, and maintaining his shrines. They were also educators and counselors, working to provide for their community. They crafted stone beads in meditation, chipping or carving small pieces of stone to hone their concentration and connection to the Creator.
