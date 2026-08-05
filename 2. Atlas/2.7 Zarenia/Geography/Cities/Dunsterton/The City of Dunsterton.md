@@ -6,12 +6,12 @@ tags:
   - Western-Flatlands
   - City
 ---
-| **Country**   | [[Zarenia.canvas\|Zarenia]] |
-| ------------- | --------------------------- |
-| **Region**    | [[Western Flatlands]]       |
-| **Area**      | 79.78 sq im                 |
-| **Elevation** | 95 ft                       |
-| Population    | 97,745                      |
+| **Country**   | [[2.7 Zarenia\|Zarenia]] |
+| ------------- | ------------------------ |
+| **Region**    | [[Western Flatlands]]    |
+| **Area**      | 79.78 sq im              |
+| **Elevation** | 95 ft                    |
+| Population    | 97,745                   |
 Dunsterton is the main naval base of Zarenia, located by the Swaddle of Zalen. The base was established for defensive purposes, and every part of the city is heavily fortified.
 ### Demographics
 At one point during the rebellion, the city became a haven for pirates, whose activities drove away timid Zarenians and encouraged settlers of more heinous purposes. Daniel assumed his position as commander in the Promise, he prioritized getting pirates and smugglers under his wing. In return for their harassment of Alanuan ships, he gave them permission to dock in Dunsterton so long as they paid the necessary levies.

@@ -6,12 +6,12 @@ tags:
   - Western-Flatlands
   - City
 ---
-| **Country**   | [[Zarenia.canvas\|Zarenia]] |
-| ------------- | --------------------------- |
-| **Region**    | [[Western Flatlands]]       |
-| **Area**      | 73.93 sq mi                 |
-| **Elevation** | 48 ft                       |
-| Population    | 116,723                     |
+| **Country**   | [[2.7 Zarenia\|Zarenia]] |
+| ------------- | ------------------------ |
+| **Region**    | [[Western Flatlands]]    |
+| **Area**      | 73.93 sq mi              |
+| **Elevation** | 48 ft                    |
+| Population    | 116,723                  |
 The largest seaport in the country, Casbar acts as the main gateway between the Alanian subcontinent and Zarenia. The westernmost point of the country, it is also the country's most populous city and its commercial and economic hub. Everything that enters or exits Zarenia goes through here.
 
 Due to the recent rebellion, the atmosphere is tense between locals and outsiders.
