@@ -1,0 +1,14 @@
+filters:
+  and:
+    - file.hasTag("Zarenia")
+formulas:
+  Untitled: file.hastag("Zarenia")
+properties:
+  formula.Untitled:
+    displayName: Zarenia
+views:
+  - type: table
+    name: Table
+    order:
+      - file.basename
+      - tags

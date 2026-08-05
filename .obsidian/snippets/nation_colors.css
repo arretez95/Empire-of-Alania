@@ -1,0 +1,41 @@
+/*
+Alanue:
+Zarenia:
+Aca:
+Valviceno:
+Millas:
+Montafielia:
+Sidoliseia:
+*/
+
+.Zarenia {
+	background-color: rgba(226,191,101, 0.5);
+}
+
+.Alanue {
+	background-color: rgba(122,199,76, 0.5);
+}
+
+.Montafielia {
+	background-color: rgba(100,145,240,0.5);
+}
+
+.Aca {
+	background-color: rgba(115,87,151, 0.5);
+}
+
+.Valviceno {
+	background-color: #EE8130;
+}
+
+.Millas {
+	background-color: #96D9D6;
+}
+
+.Sidoliseia {
+	background-color: #F7D02C;
+}
+
+.shadow {
+	background-color: #705746;
+}
