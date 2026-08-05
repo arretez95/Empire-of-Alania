@@ -10,7 +10,7 @@ Spirit power is derived from the natural energy produced from the earth†. Whil
 
 ## Manifestation
 ### Pledge
-A **Pledge** refers to the pact binding the human and the spirit, often a promise to fulfill the Spirit's wishes. Some people go a step further and carve a symbol of the Pledge onto their body. The pair together is referred to as a **partnership**. Though there is no direct terminology for a human in partnership with a Spirit, they may refer to themselves as "pledged".
+A **Pledge** refers to the pact binding the human and the spirit, often a promise to fulfill the Spirit's wishes. Some people go a step further and carve a symbol of the Pledge onto their body. The pair together is referred to as a **partnership**. Though there is no direct terminology for a human in partnership with a Spirit, they may refer to themselves as "pledged" (e.g. "I am pledged").
 
 A Spirit has no reason to obey a human they are not bonded with. Therefore, a person can only Synchronize when they have gained their Spirit's trust and solidified it with a Pledge. Thus, the longer the Pledge is kept, and the closer the pair are to completion, the stronger the pledge and their abilities become. Pledged ones consider the closeness of their partnership analogous to their strength.
 
@@ -68,9 +68,12 @@ Synchronicity is the degree to which a human and Spirit have synchronized. Highe
 	- Exceptionally rare. Extraordinary mutual trust may allow some pairs to reach it much sooner. Pairs bound by exceptionally demanding Pledges may develop unusually high synchronicity, as fulfilling those promises requires profound trust and cooperation.
 	- By this point, the Spirit instinctively understands the user's desired outcome, while the human intuitively senses the Spirit's manipulation of natural energy.
 	- Synchronization is seemingly instantaneous.
+
 ### Usage
 #### Technique
-Techniques are developed from spirit ability and differs between individuals. Without proper control of Spirit power, techniques will be less effective and cause early overclocking.
+Techniques are developed from spirit ability and differs between individuals. They are not taught in the traditional sense but are developed through understanding the Spirit's nature, the user's instincts, and the circumstances that shape them. Two people with similar Spirits may possess entirely different techniques depending on their fighting style, personality, and relationship with their Spirit.
+
+Without proper control of Spirit power, techniques will be less effective and cause early overclocking.
 
 Techniques are classified into three categories:
 - **Melee:** Close range techniques.
@@ -86,11 +89,12 @@ Spirits are sentient and have distinct preferences. Using them for trivial tasks
 Spirits are fiercely loyal to their one human. They may have wavering allegiance to their partner's friends, but that does not guarantee cooperation.
 
 ### Training
-- Development is largely based on the individual. Though more experienced Spiriters may offer guidance, the feeling of absorbing and discharging spirit power differs from person to person.
+- Development is largely dependent on the individual. Though more experienced practitioners may offer guidance, the sensation of absorbing and discharging spirit power differs from person to person.
+- Spirit Power is most easily directed through one of the major limbs and discharged from its extremity. With experience, a person learns to minimize unnecessary movement, reducing strain on the muscles and nervous system while synchronizing.
 
 
 ## Personality Traits
-Many brush it off as coincidence, but Spiriters often share personality traits with their associated element:
+Many brush it off as coincidence, but people often share personality traits with their associated element:
 - Earth Spiriters are relied on for their strength as much as their resourcefulness, determination, and generosity. They don't hesitate to assert their beliefs or stand up against injustices, which may come off as harsh, blunt, or intimidating. Their fearlessness often succumbs into recklessness. They work best with those who can acknowledge their accomplishments.
 - Fire Spiriters are charismatic and easily excited, their emotions and reactions bordering on the extreme. Their optimism provides light for others, pulling them out of darkness, depression, and boredom. They lack a sense of objective and have only the briefest sparks of motivation. They work best with those that can keep them on task.
 - Plant Spiriters constantly perform balancing acts, trying to keep everyone around them in harmony. They hate to disappoint and are happy to give, and thus dislike change or risk. Prone to overwork, they work best with those that can give back and allow them ease.
