@@ -6,6 +6,9 @@ aliases:
   - Daniel
 nation: Zarenia
 role: Archivist
+faction:
+  - Promise of Freedom
+  - Oathkeepers
 ---
 
 | **Spirit**           | [[Curtidagua]]     |
