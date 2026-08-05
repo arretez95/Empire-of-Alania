@@ -37,13 +37,17 @@ Pledges differ by the feasibility of completion and are graded accordingly:
 - **Erratic:** Feasible completion. A person's ability relies largely on the strength of their partnership; improvement can be erratic. On pledge completion, the partnership's ability becomes significantly more efficient.
 
 ### Synchronization
-The process of absorbing natural energy and utilizing Spirit Power is called **synchronization**. Synchronizing, or syncing, with an Elemental Spirit allows one to cast the Spirit's abilities as their own. The human and spirit must be in direct contact to do so. A stronger bond with the Spirit results in quicker and more efficient synchronization, reducing the time needed to charge and execute techniques.
+The process of absorbing natural energy and utilizing Spirit Power by a human is called **synchronization**. The Spirit acts as the source and regulator of the energy while the human body serves as the conduit through which it is shaped and released. Synchronizing, or syncing, with an Elemental Spirit allows one to cast the Spirit's abilities as their own. The human and spirit must be in direct contact to do so. A stronger bond with the Spirit results in quicker and more efficient synchronization, reducing the time needed to charge and execute techniques.
 
-The process is painful and places incredible strain on the body. The Spirit must channel natural energy through human tissue into the bloodstream. Usage must be trained through experience (training, meditation, etc.). Thus, the stronger the partnership, the easier it is to Synchronize and the easier it is to hold the power for longer periods of time.
+Synchronization begins when physical contact is established, though natural energy accumulates gradually. Minor techniques may require only a brief synchronization, while advanced techniques demand prolonged concentration. Breaking contact immediately halts the transfer of energy and dissipates any unspent power.
 
-Zarenians have a naturally lower red blood cell concentration to tolerate the low-oxygen conditions in their mountainous home. While it doesn't make the synchronization process any less painful, Spiriters practice breathing and martial arts techniques to accelerate blood flow and blood pressure, making it easier to channel and release Spirit power. Zarenians may also carve runic symbols into themselves to make absorption of Spirit power easier.
+The process is painful and places incredible strain on the body as the Spirit must channel their amalgamation of natural energy through human tissue into the nervous system. The human can then direct the energy to where they want it to go. With training, the pain diminishes not because the energy becomes gentler, but because the body learns to withstand it. Thus, the stronger the partnership, the easier it is to Synchronize and the easier it is to hold the power for longer periods of time.
 
-Overuse of natural energy is called **overclocking**. Occasional, mild overclocking results in numbness, easily recoverable within minutes to hours. Moderate overclocking develops cramps or sores and risks tissue damage. Continued or severe overclocking leads to permanent tissue damage and eventually, permanent paralysis. Likewise, a Spirit who has exhausted their energy must replenish it if it must be used.
+Zarenians have a naturally lower red blood cell concentration to tolerate the low-oxygen conditions in their mountainous home. While it doesn't make the synchronization process any less painful, those pledged practice breathing and martial arts techniques to accelerate blood flow and blood pressure, making it easier to channel and release Spirit power. Zarenians may also carve runic symbols into themselves to make absorption of Spirit power easier.
+
+Overuse of natural energy is called **overclocking**. Excess usage damages surrounding tissue and overwhelm the nervous system. Early symptoms of occasional, mild overclocking results in numbness, easily recoverable with rest. Moderate overclocking develops cramps or sores and risks tissue damage. Continued or severe overclocking leads to permanent tissue damage and eventually, permanent paralysis.
+
+Likewise, a Spirit who has exhausted their energy must replenish it if it must be used.
 
 ### Level
 One's level is determined by what they can accomplish while synchronizing. 
