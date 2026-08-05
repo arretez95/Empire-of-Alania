@@ -33,6 +33,6 @@ The Archives' front is a small, two-story brick structure with a steeply pitched
 
 Its first and second stories contain mostly classrooms and offices while the actual Archives are underground.
 
-**Known Collectors:**
+**Known Archivists:**
 - [[Daniel Carona|Daniel]]
 - 
