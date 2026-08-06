@@ -47,13 +47,13 @@ Daniel would consider his birth nothing more than ordinary: born in a rickety sh
 - At age ten, Daniel rigged an outdoor stove with some help from his brothers to pump heat into the home. The family could now cook and heat the house simultaneously. He was tired of his mother complaining of the cold, and he quite liked _not_ needing the warmth of several blankets. His heating system proved popular with the village and his installation service was booked out for months. Daniel weaved the first coin he earned into his [[Lifestones|lifestone]].
 - At age 12, like most other 12-year-olds, Daniel was apprenticed to the local [[Beadworker]]. He had no patience for stone carving and instead fumbled his way through his apprenticeship. He halfheartedly gave his parents his coming-of-age lifestone as per tradition, but delved no further into the craft.
 
+#### Discovering Spirits
+It wasn't long after Daniel turned 18 that things went awry. His mother disappeared. [[The Guardians of Alanue|Guardians]] seized the family farm on the pretense they were hiding rebels. Daniel's father was known to criticize the Alanuan nobility, especially those in Zarenia, and was later killed. [[Andrew (Jorden) Carona, Jr.|Jorden]] was placed under house arrest. Eventually, Guardians ransacked the entire village of [[Reasal]], and he fled with his brothers to [[The City of Redcker|Redcker]].
+
+During their flight, Daniel and his brothers came across three Spirits—Curtidagua, Diaroca, and Espor—arguing over rights to Diaroca's den. Curti, whose old mountain spring was damaged during the attack, had flooded Diaroca's tunnel system to make a pond. Espor was having trouble mediating between the two of them. Curti in anger tried to blast Diaroca with water but caught Daniel in the face instead when he jumped between them. Daniel promised to find her a new home if she wanted to come with them, to which she agreed. This promise, they would later discover, was the first step to utilize Spirit ability.
+
 #### Flight to Redcker
-It wasn't long after Daniel turned 18 that things went awry. His mother disappeared. [[The Guardians of Alanue|Guardians]] seized the family farm on the pretense they were hiding rebels. Daniel's father was known to criticize the Alanuan nobility, especially those in Zarenia, and was later killed. [[Andrew (Jorden) Carona, Jr.|Jorden]] was placed under house arrest (but later fled the village with [[Diaroca]]). Eventually, the entire village of [[Reasal]] was ransacked, and he fled with his brothers to [[The City of Redcker|Redcker]].
-
-During their flight, Daniel and his brothers came across three Spirits—Curtidagua, Diaroca, and Espor—arguing over rights to Diaroca's den. Curti, whose old mountain spring was damaged during the attack, had flooded Diaroca's tunnel system to make a pond. Espor was having trouble mediating between the two of them. 
-
-
-
+The villagers eventually reach Redcker but 
 
 [insert more history here.]
 
