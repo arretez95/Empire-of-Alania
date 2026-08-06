@@ -1,5 +1,0 @@
-Alanuan economy is heavily driven by indentured servitude and free labor. Alanuans believe the weak must obey the strong, thus those they have captured should do their bidding. Açenes And Millans were respected for their will to fight. Valvicenans and Zarenians, who preferred diplomacy, were considered on par with animals.
-
-On the other hand, slaves are not only valued for the labor they provide, but their origin. Millas and Valvicenan slaves are commonly found and used as cheap labor for Alanue and Millas' vast tracts of agriculture or as servants to the lower class. Açene and Zarenian slaves are owned mostly by the noble and royal families who can afford hiring a slave hunter.
-
-Due to the expense of shipping from the Zarenian peninsula, one royal prince began a pet project of breeding his own slaves from native stock, selecting for both beauty and obedience. 
