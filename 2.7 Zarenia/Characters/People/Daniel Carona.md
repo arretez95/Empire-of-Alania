@@ -17,7 +17,7 @@ faction:
 | **Birthplace**       | [[Reasal]]         |
 | **Current Location** | Traveling          |
 ### Introduction
-A wily and smiley young man with an itch for mischief. The Protégé of Zarenia. A farmer's son turned rebel turned member of Zarenia's recently formed Council of Seven. A spirited man with everything to gain, little to lose. His seemingly serene smile hides a facade of calculating menace.
+A wily and smiley man with an itch for mischief. The Protégé of Zarenia. A farmer's son turned rebel turned member of Zarenia's recently formed Council of Seven. A spirited man with everything to gain, little to lose. His seemingly serene smile hides a facade of calculating menace.
 
 Commander Carona doesn't roll well off the tongue, does it? Daniel's fine being typical blonde-haired, green-eyed Daniel. With his Spirit [[Curtidagua|Curti]] by his side, he can do anything he sets his mind to.
 
@@ -26,21 +26,34 @@ Daniel rose to fame during the Zarenian Rebellion. His wit and flexibility saved
 
 After the formation of [[the Council of Seven]], and because he never turned down a request from his brother, Daniel was named colloquially as the Chief's Sword. This position would become official after [[Brandon Carona|Brandon]]'s retirement.
 
-Daniel is currently a Senior Archivist for the [[The Archives|Archives]] and is frequently away on missions.
+Daniel is currently an Archivist for the [[The Archives|Archives]] and is frequently away on missions.
 
 ### Physicalities
 He never stops smiling. That's the first thing people notice. Doesn't matter if something goes awry, if it's not a smirk, it's a toothy grin. It puts some people off, unable to read his genuine emotions. But underneath that stupid, two-faced facade lies a hint of brilliance. It's best not to show all your cards at once, right?
 
-Soft, sandy blonde hair tops his pleasant, youthful face. His vibrant green eyes miss nothing as they flicker through each thing that catches his interest. His appearance is not prominent: scrawny, lean-muscled, wiry, with unimpressively average height.
+Soft, sandy blonde hair tops his oft-pleasant face. His vibrant green eyes miss nothing as they flicker through each thing that catches his interest. His appearance is not prominent: scrawny, lean-muscled, wiry, with unimpressively average height.
 
 ### Mentality
-#### Personal History
+Daniel approaches life with a perpetual grin and a joke for almost any situation. He is often the first to break a lingering silence, usually with an absurd question or what he insists is a perfectly well-timed remark. It has been reported on numerous occasions that Daniel interrupts council meetings to ask the Chieftain of Zarenia for food. He delights in making people laugh, often through pranks, playful teasing, or being downright absurd.
+
+Behind the cheerful exterior lies a calculating mind, constantly observing his surroundings and weighing possibilities. Daniel rarely reveals the full extent of his thoughts, preferring to let others underestimate him. As a result, few people ever know whether his smile reflects genuine amusement or a carefully maintained mask. He possesses an insatiable curiosity and prefers to approach obstacles as puzzles rather than setbacks. He has an uncanny knack for turning what happens to be at hand into an advantage, often finding solutions others overlook.
+
+While stubborn and inclined to disregard authority, he remains fiercely loyal to his family, friends, and the people of Zarenia.
+
+### History
+#### Early Life
 Daniel would consider his birth nothing more than ordinary: born in a rickety shack to a couple of struggling farmers who nonetheless were pleased with the arrival of their youngest son. But with his parents too busy to worry after him and his brothers reluctant to babysit, Daniel spent much of his childhood roaming the farm and the surrounding woods. Used to doing things the way he wants, Daniel doesn't hesitate to butt heads with anyone who disagrees with him. And no one can deny his brilliance:
 - At the age of six, Daniel set up a booth in the village to market the versatility of potatoes. His father had a successful harvest that year and didn't need the extra. The practice spread through the village, and as time went on, the rest of Zarenia, where the Potato Feast is now an annual gathering of potato carving, potato eating, potato throwing, potato bobbing, and other potato-ey activities.
 - At age ten, Daniel rigged an outdoor stove with some help from his brothers to pump heat into the home. The family could now cook and heat the house simultaneously. He was tired of his mother complaining of the cold, and he quite liked _not_ needing the warmth of several blankets. His heating system proved popular with the village and his installation service was booked out for months. Daniel weaved the first coin he earned into his [[Lifestones|lifestone]].
 - At age 12, like most other 12-year-olds, Daniel was apprenticed to the local [[Beadworker]]. He had no patience for stone carving and instead fumbled his way through his apprenticeship. He halfheartedly gave his parents his coming-of-age lifestone as per tradition, but delved no further into the craft.
 
+#### Flight to Redcker
 It wasn't long after Daniel turned 18 that things went awry. His mother disappeared. [[The Guardians of Alanue|Guardians]] seized the family farm on the pretense they were hiding rebels. Daniel's father was known to criticize the Alanuan nobility, especially those in Zarenia, and was later killed. [[Andrew (Jorden) Carona, Jr.|Jorden]] was placed under house arrest (but later fled the village with [[Diaroca]]). Eventually, the entire village of [[Reasal]] was ransacked, and he fled with his brothers to [[The City of Redcker|Redcker]].
+
+During their flight, Daniel and his brothers came across three Spirits—Curtidagua, Diaroca, and Espor—arguing over rights to Diaroca's den. Curti, whose old mountain spring was damaged during the attack, had flooded Diaroca's tunnel system to make a pond. Espor was having trouble mediating between the two of them. 
+
+
+
 
 [insert more history here.]
 
@@ -51,7 +64,13 @@ Daniel holds claim to the title First [[Magic Style — Spirit Power|Spiriter]]
 - **[[Andrew (Jorden) Carona, Jr.]]**: elder brother; biological
 
 ### Abilities
-When in Sync with [[Curtidagua]], Daniel is able to mold water into whatever shapes he likes. The larger or the more complex the shape, the more Spiritual Power required.
+Daniel is recognized as one of the finest men produced from Reasal. Though not as physically strong or built as most Zarenians, his easygoing nature and quick wit have saved him from potential trouble.
+
+#### Combat
+Because he is smaller than most, Daniel tends to avoid physical confrontation. He rarely utilizes his full strength, preferring short, quick strikes with his daggers versus powerful blows with a longsword.
+
+#### Spirit
+When in sync with [[Curtidagua]], Daniel is able to mold water into whatever shapes he likes. The larger or the more complex the shape, the more Spiritual Power required.
 
 | **Ability**            | **Description**                                                                                                                        |
 | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
