@@ -1,70 +1,37 @@
 {
   "main": {
-    "id": "04d93f1f1b07375c",
+    "id": "b5f657a97bedec43",
     "type": "split",
     "children": [
       {
-        "id": "8f5002379003162a",
+        "id": "681167824d11e342",
         "type": "tabs",
         "children": [
           {
-            "id": "c8660d9d47284662",
+            "id": "1b475c732a4c8bce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Atlas/2.7 Zarenia/Characters/People/Daniel Carona.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Daniel Carona"
-            }
-          },
-          {
-            "id": "c7e67c29595a4a44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Atlas/2.7 Zarenia/Characters/People/Andrew (Jorden) Carona, Jr..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Andrew (Jorden) Carona, Jr."
-            }
-          },
-          {
-            "id": "5e04e2a43fc1fdd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Atlas/2.5 Aca/Notable People/Eric.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Eric"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f74cbf31cb7e8ce0",
+    "id": "0d39dfbf9e27e3b3",
     "type": "split",
     "children": [
       {
-        "id": "f7c6c02e4eaa27ae",
+        "id": "ad35624169e09ef3",
         "type": "tabs",
         "children": [
           {
-            "id": "38484c54566aa7b1",
+            "id": "ac4e8edf577a0e5e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -79,7 +46,7 @@
             }
           },
           {
-            "id": "0e37b32f7c028d23",
+            "id": "793a77354c0adc65",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -96,11 +63,14 @@
             }
           },
           {
-            "id": "19f1b305e4d97c01",
+            "id": "96e505c4ade3e30c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -109,23 +79,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 300
   },
   "right": {
-    "id": "0ff84038851b0ebe",
+    "id": "b81f3ed374e61ee5",
     "type": "split",
     "children": [
       {
-        "id": "d4c20238b5464b5f",
+        "id": "a1360d04bb3470f2",
         "type": "tabs",
         "children": [
           {
-            "id": "f148bd38423f41b5",
+            "id": "f13093b5c992a776",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Atlas/2.7 Zarenia/Culture/Beadworker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,27 +108,26 @@
             }
           },
           {
-            "id": "0329f9f7e70b9c20",
+            "id": "a96e7d18cff26f9a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Atlas/2.7 Zarenia/Magic/Magic Style — Spirit Power.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
               "title": "Outgoing links"
             }
           },
           {
-            "id": "569f09ecb654eec7",
+            "id": "edc02b64c2253159",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -168,7 +136,7 @@
             }
           },
           {
-            "id": "5caf3282999fd71c",
+            "id": "46995f412b433a69",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -182,12 +150,11 @@
             }
           },
           {
-            "id": "f4ed4139af33006f",
+            "id": "9af19ccc1ea04931",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Atlas/2.7 Zarenia/Characters/People/Daniel Carona.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -195,23 +162,13 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "eeb406f363b95227",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,60 +178,9 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "5e04e2a43fc1fdd3",
-  "lastOpenFiles": [
-    "Rokida.md",
-    "2. Atlas/2.5 Aca/Notable People/Eric.md",
-    "2. Atlas/2.7 Zarenia/Characters/People/Andrew (Jorden) Carona, Jr..md",
-    "2. Atlas/2.7 Zarenia/Characters/People/Daniel Carona.md",
-    "2. Atlas/2.7 Zarenia/Characters/Spirits/Curtidagua.md",
-    "2. Atlas/2.7 Zarenia/Characters/Spirits/Espor.md",
-    "2. Atlas/2.7 Zarenia/2.7 Zarenia.md",
-    "2. Atlas/New Folder Structure/Factions",
-    "2. Atlas/New Folder Structure/New folder",
-    "2. Atlas/New Folder Structure/Locations",
-    "2. Atlas/New Folder Structure/Characters",
-    "Untitled.md",
-    "2. Atlas/New Folder Structure/Characters/Spirits",
-    "2. Atlas/New Folder Structure/Characters/Zarenian",
-    "2. Atlas/New Folder Structure/Locations/Resources",
-    "2. Atlas/New Folder Structure/Locations/Xxtan",
-    "2. Atlas/New Folder Structure/Locations/Alanian Continent",
-    "2. Atlas/New Folder Structure/Items/Weapons",
-    "2. Atlas/2.7 Zarenia/Geography/Cities/Casbar/The City of Casbar.md",
-    "2. Atlas/2.7 Zarenia/Geography/Cities/Casbar/Points of Interest/The Archives.md",
-    "Welcome.md",
-    "2. Atlas/2.7 Zarenia/Geography/Cities/Dunsterton/The City of Dunsterton.md",
-    "2. Atlas/2.7 Zarenia/Geography/Cities/Redcker/The City of Redcker.md",
-    "2. Atlas/2.7 Zarenia/Geography/Cities/Casbar/Points of Interest/The Port of Casbar.md",
-    "Zarenia.canvas",
-    "2. Atlas/Map/Zarenia_Map.png",
-    "Aça.md",
-    "Fungal Spore Spirit.md",
-    "Zalen.md",
-    "2. Atlas/2.7 Zarenia/Military/Equipment.md",
-    "2. Atlas/2.7 Zarenia/Culture/Beadworker.md",
-    "2. Atlas/2.7 Zarenia/Culture/Oathkeepers.md",
-    "2. Atlas/2.7 Zarenia/Culture/Lifestones.md",
-    "2. Atlas/2.7 Zarenia/Magic/Magic Style — Spirit Power.md",
-    "2. Atlas/2.5 Aca/Geography/Cities/Sancignico.md",
-    "2. Atlas/2.5 Aca/Notable People/Sara.md",
-    "2. Atlas/2.7 Zarenia/Characters/Spirits/Ginger.md",
-    "2. Atlas/2.7 Zarenia/Culture/Transportation.md",
-    "2. Atlas/Map/old/Alania Provinces 2023-10-10-19-17.png",
-    "2. Atlas/Map/old/Alania HeightMap 2023-10-10-19-18.png",
-    "2. Atlas/Map/old/Alania 2023-05-26-11-54.png",
-    "2. Atlas/Map/Valviceno_Map.png",
-    "2. Atlas/Map/Sidoliseia_map.png",
-    "2. Atlas/Map/Montafielia_Map.png",
-    "2. Atlas/Map/Millas_Map.png",
-    "2. Atlas/Map/Alanue_Map.png",
-    "2. Atlas/Map/Alania 2024-09-04-12-44.png",
-    "3. Timeline/Timeline.canvas",
-    "2. Atlas/2.7 Zarenia/Zarenia.canvas"
-  ]
+  "active": "1b475c732a4c8bce",
+  "lastOpenFiles": []
 }
